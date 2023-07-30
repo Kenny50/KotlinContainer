@@ -1,0 +1,5 @@
+{
+    "image":"kenny50/kotlin:latest",
+    "extensions": ["mathiasfrohlich.kotlin","fwcd.kotlin"],
+    "settings": { "workbench.colorTheme": "Solarized Dark" }
+}
