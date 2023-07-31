@@ -5,5 +5,5 @@
         "fwcd.kotlin",
         "vscjava.vscode-gradle"
     ],
-    "settings": { "workbench.colorTheme": "Solarized Dark" }
+    "settings": { "workbench.colorTheme": "Dark+ V2" }
 }
