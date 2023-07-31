@@ -1,5 +1,9 @@
 {
     "image":"kenny50/kotlin:latest",
-    "extensions": ["mathiasfrohlich.kotlin","fwcd.kotlin"],
+    "extensions": [
+        "mathiasfrohlich.kotlin",
+        "fwcd.kotlin",
+        "vscjava.vscode-gradle"
+    ],
     "settings": { "workbench.colorTheme": "Solarized Dark" }
 }
